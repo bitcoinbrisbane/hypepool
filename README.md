@@ -104,7 +104,7 @@ hypepool can run on any platform that dotnet core 2.0 is [available](https://git
 
 ## web frontend
 
-To support the project, we'll be stripping out full-featured web frontend as a standalone project which can be purchased to support the development. Still, the user can implement his own web-frontend using the API.
+To support the project, we'll be stripping out full-featured web frontend as a standalone project which can be purchased to support the development. Still, the user can implement their own web-frontend using the API.
 
 ## FAQ
 
