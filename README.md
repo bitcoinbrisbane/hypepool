@@ -98,7 +98,7 @@ hypepool can run on any platform that dotnet core 2.0 is [available](https://git
 * install [dotnet core](https://www.microsoft.com/net/download/windows).
 * install [node 8+](https://nodejs.org/en/download/)
 * `npm install -g grunt-cli && npm install`
-* `git clone git@github.com:bonesoul/hypepool.git`
+* `git clone https://github.com/bitcoinbrisbane/hypepool.git`
 * `dotnet build hypepool.sln`
 
 ## web frontend
