@@ -99,8 +99,11 @@ hypepool can run on any platform that dotnet core 2.0 is [available](https://git
 * install [node 8+](https://nodejs.org/en/download/)
 * `npm install -g grunt-cli && npm install`
 * `git clone https://github.com/bitcoinbrisbane/hypepool.git`
-* `cd hyperpool`
+* `cd hypepool`
 * `dotnet build hypepool.sln`
+
+## running
+`dotnet /bin/.../`
 
 ## web frontend
 
